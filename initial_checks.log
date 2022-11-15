@@ -1,0 +1,12 @@
+Initial check results: 
+SUCCESS: Submission has consistently named tex, bib, and R files
+SUCCESS: No problematic file found
+SUCCESS: Possible motivation letter found
+SUCCESS: The article title is properly formatted in title case.
+SUCCESS: All sections are properly formatted in sentence case
+SUCCESS: Abstract comes before the introduction section
+NOTE: A potential list of spelling to check: symbolmap, sectionintensity, matematically, northeast, rpoispp, diggle, bw, pcf, gray, nrd, ppp, safelookup, unnormalised, spattemp, dpik, persp, unrounding, asize, discretised, refs, bachl, inlabru, ayesian, baddeley, twostage, onte, arlo, spatstat, besag, ipley's, virgilio, choihall, daley, davies, relativerisksparr, aussian, gabriel, raey, stpp, ghorbani, gonzalez, arxiv, gonzalezetal, harte, hazelton, illian, jalilian, fastpcfbandwidth, moraga, osta, ica, lisavsscan, tomasute, pebesma, ripley, rodrigues, rowlingson, splancs, aplace, scott, sheather, silverman, taylor, lgcp, taylordiggle, wassle, wong
+SUCCESS: All CRAN & Bioconductor packages mentioned are available
+NOTE: 4 package(s) used in the text without CRANpkg or BIOpkg commands: inla, parallel, parallell, stats
+
+ SUCCESSES: 7 | ERRORS: 0 | NOTES: 2 
